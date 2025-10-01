@@ -1,4 +1,6 @@
 #!/bin/bash
+# Coder Willow McCulloch GitHub IvoryAspin
+# This Runs a simple block of animation
 clear
 Red='\033[0;31m'
 Yellow='\033[0;33m'
