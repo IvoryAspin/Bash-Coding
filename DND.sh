@@ -1,4 +1,6 @@
 #!/bin/bash
+# Coder Willow McCulloch GitHub IvoryAspin
+# This is a very simple game of dnd
 #################################################
 #                 COLORS                        #
 #################################################
